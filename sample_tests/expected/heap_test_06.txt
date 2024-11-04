@@ -1,0 +1,209 @@
+get_largest_file_handle
+Heap is empty!
+create_directory_root
+1
+create_link_root
+2
+create_directory
+3
+create_file
+4
+get_largest_file_handle
+4
+remove
+create_directory_root
+2
+create_link
+5
+create_link
+6
+create_link
+7
+create_file
+8
+create_link
+9
+rename
+create_file
+10
+rename
+create_directory
+11
+create_directory
+12
+create_directory
+13
+create_file
+14
+get_largest_file_handle
+8
+create_link
+15
+rename
+print_layout
+[D]F2H8OYl4oQ8PAR
+	[D]6BZicZQto6
+		[L]uCyidILZ [->/F2H8OYl4oQ8PAR/Mo5f1m0gFOatFe]
+		[F]Bu7gScqci7 (size = 44)
+		[F]mPeA (size = 17)
+	[F]Mo5f1m0gFOatFe (size = 7)
+	[L]FkM VS--yAc [->/F2H8OYl4oQ8PAR]
+	[L]CTdQ2f7LyMwntklVB-  [->/F2H8OYl4oQ8PAR]
+	[F]5SIq5mbTcXU1 (size = 16)
+	[D]cK1pB1G7m
+	[D]KcjE73ULsRx
+[D]TgqAsjrURYbLOqz
+	[L]stWATyJAVukcMo2Bn [->/TgqAsjrURYbLOqz]
+	[D]sWn7Lo
+		[L]h5EjprT [->/F2H8OYl4oQ8PAR]
+
+create_directory
+16
+create_directory
+17
+get_absolute_path
+/TgqAsjrURYbLOqz/stWATyJAVukcMo2Bn
+create_file
+18
+print_layout
+[D]F2H8OYl4oQ8PAR
+	[D]6BZicZQto6
+		[L]uCyidILZ [->/F2H8OYl4oQ8PAR/Mo5f1m0gFOatFe]
+		[F]Bu7gScqci7 (size = 44)
+		[F]mPeA (size = 17)
+		[F]OVOHWIdxQOtJ-oJm  (size = 9)
+	[F]Mo5f1m0gFOatFe (size = 7)
+	[L]FkM VS--yAc [->/F2H8OYl4oQ8PAR]
+	[L]CTdQ2f7LyMwntklVB-  [->/F2H8OYl4oQ8PAR]
+	[F]5SIq5mbTcXU1 (size = 16)
+	[D]cK1pB1G7m
+	[D]KcjE73ULsRx
+[D]TgqAsjrURYbLOqz
+	[L]stWATyJAVukcMo2Bn [->/TgqAsjrURYbLOqz]
+	[D]sWn7Lo
+		[L]h5EjprT [->/F2H8OYl4oQ8PAR]
+		[D]aZpe8_hdhy-Hq
+[D]FJawzS
+
+rename
+get_largest_file_handle
+8
+print_layout
+[D]F2H8OYl4oQ8PAR
+	[D]6BZicZQto6
+		[L]uCyidILZ [->/F2H8OYl4oQ8PAR/Mo5f1m0gFOatFe]
+		[F]Bu7gScqci7 (size = 44)
+		[F]mPeA (size = 17)
+		[F]OVOHWIdxQOtJ-oJm  (size = 9)
+	[F]Mo5f1m0gFOatFe (size = 7)
+	[L]FkM VS--yAc [->/F2H8OYl4oQ8PAR]
+	[L]CTdQ2f7LyMwntklVB-  [->/F2H8OYl4oQ8PAR]
+	[F]5SIq5mbTcXU1 (size = 16)
+	[D]cK1pB1G7m
+	[D]KcjE73ULsRx
+[D]TgqAsjrURYbLOqz
+	[L]stWATyJAVukcMo2Bn [->/TgqAsjrURYbLOqz]
+	[D]sWn7Lo
+		[L]tbxrDkx7JmQVz-u-4w- [->/F2H8OYl4oQ8PAR]
+		[D]aZpe8_hdhy-Hq
+[D]FJawzS
+
+create_file_root
+19
+create_directory
+20
+create_directory
+21
+create_link
+22
+rename
+remove
+create_link
+23
+create_link_root
+24
+create_link
+25
+create_link
+26
+create_file
+27
+create_file
+28
+create_file
+29
+get_file_size
+44
+create_directory
+30
+create_link
+31
+get_largest_file_handle
+19
+get_largest_file_handle
+19
+create_link
+32
+create_file
+33
+create_link
+34
+create_file
+35
+get_largest_file_handle
+19
+get_largest_file_handle
+19
+follow
+1
+create_directory
+36
+get_file_size
+Invalid handle!
+create_directory
+37
+get_handle
+7
+create_link
+38
+create_directory
+39
+create_file
+40
+create_directory
+41
+get_available_size
+1057
+create_directory
+42
+follow
+1
+create_directory
+43
+create_file
+44
+get_largest_file_handle
+19
+create_file
+45
+get_absolute_path
+/F2H8OYl4oQ8PAR/FkM VS--yAc
+create_directory
+46
+create_link
+47
+create_file
+48
+get_available_size
+1030
+create_directory
+49
+get_file_size
+Invalid handle!
+create_directory
+50
+create_file
+51
+follow
+1
+quit

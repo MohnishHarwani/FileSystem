@@ -1,0 +1,136 @@
+create_directory
+1
+create_file
+2
+create_directory
+3
+get_file_size_path
+11
+exist
+1
+print_layout
+[D]kSr-f5
+	[F]FDeU_15yXhNopj43hhz (size = 11)
+[D]wpzUUNskceOI7dB
+
+create_file
+4
+create_file
+5
+create_directory_root
+6
+create_file
+7
+create_directory
+8
+create_directory
+9
+create_file
+10
+create_file
+11
+create_directory
+12
+create_directory
+13
+get_available_size
+6178
+get_absolute_path
+/wpzUUNskceOI7dB
+get_absolute_path
+/wpzUUNskceOI7dB/jocIyo-
+get_available_size
+6178
+get_absolute_path
+/kSr-f5/Swove3mSsR/f6szUYB
+exist
+1
+get_available_size
+6178
+get_file_size
+11
+create_file
+14
+create_file
+15
+get_available_size
+6159
+create_directory
+16
+create_file
+17
+get_file_size
+14
+create_file
+18
+create_directory
+19
+create_file
+20
+create_file
+21
+get_file_size_path
+18
+create_directory
+22
+get_file_size_path
+77
+create_directory
+23
+create_directory
+24
+create_file
+25
+get_available_size
+5574
+create_directory
+26
+get_absolute_path
+/ry4bdXNtH5W
+create_directory
+27
+create_file
+28
+exist
+1
+create_file
+29
+create_directory
+30
+get_available_size
+5424
+print_layout
+[D]kSr-f5
+	[F]FDeU_15yXhNopj43hhz (size = 11)
+	[F]TwrfUqqd8j_AuxfXuhy (size = 32)
+	[D]Swove3mSsR
+		[F]f6szUYB (size = 238)
+		[D]xgtTiw
+			[F]E P1fQ2THI-bqZWUzHV2 (size = 188)
+		[F]vj1lUBmmW4oyGLsT6VSh (size = 29)
+		[F]uiBOe0BLra0Z1 (size = 77)
+		[D]jtviGs0kGy
+		[F]f3EZyw-8 (size = 223)
+[D]wpzUUNskceOI7dB
+	[F]jocIyo- (size = 9)
+	[F] lVBNmP57Jf (size = 18)
+	[D]TFYBjq7Kvb
+		[F]guD9o6Rl4u (size = 68)
+		[D]7XO8c8 BCey Hv6HS
+			[F]Aeb4n (size = 106)
+		[D]BfQTvif
+		[F]z28PARky (size = 44)
+		[D]w-4O
+	[D]VydIXg2Hn
+[D]M_S4-OQh-s8qRK
+[F]9E_zQ bStXoDYR0onB4x (size = 22)
+[D]ry4bdXNtH5W
+	[F]2tLJuN (size = 14)
+	[F]jmhdeAiZGgj1E (size = 5)
+[D]kmV5Y6ayRwAdx7k_K5g
+	[D]SsU1op4OC
+		[D]2hv3NU3dY lBI6LTkaWZ
+
+get_available_size
+5424
+quit

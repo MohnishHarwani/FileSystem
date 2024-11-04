@@ -1,0 +1,360 @@
+peek_nodes
+0: 
+allocate
+1
+ref_node
+G*8Mr4tj`[Kr
+parent: 0
+children: 
+allocate
+2
+allocate
+3
+remove
+allocate
+3
+ref_node
+K5@f.ld<P\
+parent: 1
+children: 
+allocate
+2
+set_parent
+set_parent
+allocate
+4
+remove
+set_parent
+allocate
+4
+ref_node
+yOd)n5a3EMY+aA
+parent: 0
+children: 4 
+ref_node
+V{os.:M
+parent: 2
+children: 
+allocate
+5
+remove
+allocate
+4
+remove
+allocate
+5
+remove
+remove
+remove
+ref_node
+K5@f.ld<P\
+parent: 0
+children: 
+remove
+remove
+allocate
+1
+allocate
+5
+ref_node
+[n^xv%g}(
+parent: 0
+children: 5 
+allocate
+4
+allocate
+3
+remove
+remove
+peek_nodes
+0: 
+1: [recycled]
+2: [recycled]
+3: [recycled]
+4: [recycled]
+5: [recycled]
+allocate
+2
+remove
+allocate
+4
+allocate
+3
+remove
+allocate
+5
+set_parent
+allocate
+1
+allocate
+2
+set_parent
+allocate
+3
+ref_node
+n~{#i]3ve2Zcyzy
+parent: 0
+children: 
+remove
+allocate
+4
+ref_node
+n~{#i]3ve2Zcyzy
+parent: 0
+children: 4 
+allocate
+3
+allocate
+2
+remove
+remove
+allocate
+1
+allocate
+2
+allocate
+3
+ref_node
+'*TnTH
+parent: 0
+children: 3 
+allocate
+6
+remove
+set_parent
+allocate
+4
+remove
+allocate
+2
+peek_nodes
+0: 
+1: '*TnTH
+2: ~NX>d=l+'SKLb
+3: [recycled]
+4: [recycled]
+5: [recycled]
+6: [recycled]
+set_parent
+allocate
+6
+peek_nodes
+0: 
+1: '*TnTH
+2: ~NX>d=l+'SKLb
+3: [recycled]
+4: [recycled]
+5: [recycled]
+6: +-D^
+set_parent
+remove
+ref_node
+'*TnTH
+parent: 6
+children: 
+remove
+allocate
+5
+remove
+allocate
+4
+ref_node
+V(o-;]7=29=4(
+parent: 0
+children: 
+allocate
+3
+allocate
+2
+set_parent
+peek_nodes
+0: 
+1: [recycled]
+2: q0~b"%u2eLh3d'm
+3: MIVA(wL"eg
+4: V(o-;]7=29=4(
+5: [recycled]
+6: [recycled]
+remove
+ref_node
+MIVA(wL"eg
+parent: 0
+children: 
+allocate
+1
+set_parent
+ref_node
+q0~b"%u2eLh3d'm
+parent: 0
+children: 
+set_parent
+peek_nodes
+0: 
+1: 3O/O
+2: q0~b"%u2eLh3d'm
+3: MIVA(wL"eg
+4: [recycled]
+5: [recycled]
+6: [recycled]
+allocate
+6
+remove
+ref_node
+3O/O
+parent: 3
+children: 
+ref_node
+3O/O
+parent: 3
+children: 
+allocate
+5
+ref_node
+-e`vBI=QMv
+parent: 1
+children: 
+set_parent
+peek_nodes
+0: 
+1: 3O/O
+2: [recycled]
+3: MIVA(wL"eg
+4: [recycled]
+5: -e`vBI=QMv
+6: YLjyN!urC>
+allocate
+4
+peek_nodes
+0: 
+1: 3O/O
+2: [recycled]
+3: MIVA(wL"eg
+4: 8Qd7OAv
+5: -e`vBI=QMv
+6: YLjyN!urC>
+allocate
+2
+allocate
+7
+remove
+ref_node
+3O/O
+parent: 3
+children: 
+remove
+remove
+ref_node
+ZfV%lZ#r*8m
+parent: 5
+children: 
+allocate
+4
+allocate
+1
+allocate
+3
+remove
+ref_node
+ZMs/8TVhp`Hsw2y_
+parent: 2
+children: 3 
+allocate
+6
+set_parent
+allocate
+8
+allocate
+9
+peek_nodes
+0: 
+1: u~B92P@""TyOj\
+2: ZfV%lZ#r*8m
+3: *1L+^'x{l~'A
+4: ZMs/8TVhp`Hsw2y_
+5: -e`vBI=QMv
+6: l%00
+7: _>Ae1<3G*Q.5K
+8: 3J$R
+9: !"K6q`eVHtgu6
+allocate
+10
+set_parent
+allocate
+11
+set_parent
+ref_node
+!"K6q`eVHtgu6
+parent: 5
+children: 
+remove
+remove
+set_parent
+ref_node
+;X<cIp;?a[xJ
+parent: 8
+children: 
+allocate
+6
+remove
+allocate
+3
+allocate
+4
+allocate
+7
+set_parent
+ref_node
+sBfO@\B
+parent: 9
+children: 8 
+allocate
+11
+remove
+ref_node
+!"K6q`eVHtgu6
+parent: 5
+children: 3 11 
+allocate
+2
+ref_node
+r!u=.!v0
+parent: 5
+children: 
+allocate
+1
+ref_node
+r!u=.!v0
+parent: 5
+children: 
+allocate
+12
+remove
+remove
+allocate
+12
+remove
+allocate
+7
+allocate
+6
+remove
+set_parent
+allocate
+11
+set_parent
+set_parent
+ref_node
+xkXLz$"
+parent: 5
+children: 
+allocate
+13
+remove
+allocate
+4
+ref_node
+sBfO@\B
+parent: 1
+children: 11 
+set_parent
+quit

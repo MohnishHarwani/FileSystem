@@ -1,0 +1,1356 @@
+create_file
+1
+create_file_root
+2
+print_layout
+[F]GW1x5CAOaKsNYTXR4 (size = 10)
+[F]EVNte (size = 7)
+
+create_directory_root
+3
+print_layout
+[F]GW1x5CAOaKsNYTXR4 (size = 10)
+[F]EVNte (size = 7)
+[D]UC4SY
+
+create_directory
+4
+create_file
+5
+exist
+1
+create_directory
+6
+create_directory
+7
+create_file
+8
+get_absolute_path
+/yvrLEb/MJpTW7T
+print_layout
+[F]GW1x5CAOaKsNYTXR4 (size = 10)
+[F]EVNte (size = 7)
+[D]UC4SY
+[D]yvrLEb
+	[F]djPsE3zAhHRc (size = 24)
+	[D]pxK98 sh3HZ6u2Mp
+	[D]MJpTW7T
+	[F]KE1T2nCMc87FbZx6 (size = 32)
+
+get_file_size
+32
+create_file
+9
+create_file
+10
+create_file
+11
+create_file
+12
+create_directory
+13
+create_directory
+14
+get_available_size
+871
+exist
+1
+create_file
+15
+get_file_size
+24
+create_directory
+16
+create_directory
+17
+get_file_size
+30
+get_name
+I8 me3Z-CQ4AX2oZCurk
+get_available_size
+827
+print_layout
+[F]GW1x5CAOaKsNYTXR4 (size = 10)
+[F]EVNte (size = 7)
+[D]UC4SY
+	[F]0nwy YznIh (size = 140)
+	[F]OW66S (size = 44)
+[D]yvrLEb
+	[F]djPsE3zAhHRc (size = 24)
+	[D]pxK98 sh3HZ6u2Mp
+		[D]lOLQW2PU
+	[D]MJpTW7T
+		[F]FAeGgb-9zqKTlLafd7jJ (size = 27)
+		[F]7fzfVtHZKBy0_fj26MDM (size = 30)
+	[F]KE1T2nCMc87FbZx6 (size = 32)
+	[D]I8 me3Z-CQ4AX2oZCurk
+		[D]iKp2cA
+	[D]fqbL4u X4wIvoeeF6
+[F]CN9SdGiY (size = 11)
+
+create_directory
+18
+get_file_size_path
+44
+create_directory
+19
+print_layout
+[F]GW1x5CAOaKsNYTXR4 (size = 10)
+[F]EVNte (size = 7)
+[D]UC4SY
+	[F]0nwy YznIh (size = 140)
+	[F]OW66S (size = 44)
+	[D]6H-XM7Pukm
+[D]yvrLEb
+	[F]djPsE3zAhHRc (size = 24)
+	[D]pxK98 sh3HZ6u2Mp
+		[D]lOLQW2PU
+	[D]MJpTW7T
+		[F]FAeGgb-9zqKTlLafd7jJ (size = 27)
+		[F]7fzfVtHZKBy0_fj26MDM (size = 30)
+	[F]KE1T2nCMc87FbZx6 (size = 32)
+	[D]I8 me3Z-CQ4AX2oZCurk
+		[D]iKp2cA
+	[D]fqbL4u X4wIvoeeF6
+		[D]Bkg9codFZr
+[F]CN9SdGiY (size = 11)
+
+get_available_size
+827
+create_file
+20
+exist
+1
+create_directory
+21
+create_directory
+22
+get_file_size
+32
+create_file
+23
+create_file
+24
+get_available_size
+420
+create_directory_root
+25
+create_directory
+26
+get_absolute_path
+/UC4SY/0nwy YznIh
+print_layout
+[F]GW1x5CAOaKsNYTXR4 (size = 10)
+[F]EVNte (size = 7)
+[D]UC4SY
+	[F]0nwy YznIh (size = 140)
+	[F]OW66S (size = 44)
+	[D]6H-XM7Pukm
+	[D]jMOQ2Nb
+[D]yvrLEb
+	[F]djPsE3zAhHRc (size = 24)
+	[D]pxK98 sh3HZ6u2Mp
+		[D]lOLQW2PU
+			[D]fK0bWbfEzF38OPpkA
+				[F]PsUdMkc_E6HWs (size = 128)
+				[D] biS8G
+	[D]MJpTW7T
+		[F]FAeGgb-9zqKTlLafd7jJ (size = 27)
+		[F]7fzfVtHZKBy0_fj26MDM (size = 30)
+	[F]KE1T2nCMc87FbZx6 (size = 32)
+	[D]I8 me3Z-CQ4AX2oZCurk
+		[D]iKp2cA
+	[D]fqbL4u X4wIvoeeF6
+		[D]Bkg9codFZr
+			[F]_AwMSIBuRH (size = 25)
+	[F]fwlATvSoGjeXDEaEO (size = 254)
+[F]CN9SdGiY (size = 11)
+[D]zAcV9Ac4Dc5Z
+
+create_directory
+27
+create_directory
+28
+get_available_size
+420
+get_handle
+11
+get_absolute_path
+/yvrLEb/I8 me3Z-CQ4AX2oZCurk
+create_directory
+29
+create_directory
+30
+print_layout
+[F]GW1x5CAOaKsNYTXR4 (size = 10)
+[F]EVNte (size = 7)
+[D]UC4SY
+	[F]0nwy YznIh (size = 140)
+	[F]OW66S (size = 44)
+	[D]6H-XM7Pukm
+	[D]jMOQ2Nb
+		[D]0zzUz
+[D]yvrLEb
+	[F]djPsE3zAhHRc (size = 24)
+	[D]pxK98 sh3HZ6u2Mp
+		[D]lOLQW2PU
+			[D]fK0bWbfEzF38OPpkA
+				[F]PsUdMkc_E6HWs (size = 128)
+				[D] biS8G
+			[D]YuJteviW3EGIi
+	[D]MJpTW7T
+		[F]FAeGgb-9zqKTlLafd7jJ (size = 27)
+		[F]7fzfVtHZKBy0_fj26MDM (size = 30)
+	[F]KE1T2nCMc87FbZx6 (size = 32)
+	[D]I8 me3Z-CQ4AX2oZCurk
+		[D]iKp2cA
+		[D]rHNLT1bZNmVcjHYz
+	[D]fqbL4u X4wIvoeeF6
+		[D]Bkg9codFZr
+			[F]_AwMSIBuRH (size = 25)
+		[D]giN2 FLIIcM0otHE_
+	[F]fwlATvSoGjeXDEaEO (size = 254)
+[F]CN9SdGiY (size = 11)
+[D]zAcV9Ac4Dc5Z
+
+create_directory
+31
+print_layout
+[F]GW1x5CAOaKsNYTXR4 (size = 10)
+[F]EVNte (size = 7)
+[D]UC4SY
+	[F]0nwy YznIh (size = 140)
+	[F]OW66S (size = 44)
+	[D]6H-XM7Pukm
+	[D]jMOQ2Nb
+		[D]0zzUz
+[D]yvrLEb
+	[F]djPsE3zAhHRc (size = 24)
+	[D]pxK98 sh3HZ6u2Mp
+		[D]lOLQW2PU
+			[D]fK0bWbfEzF38OPpkA
+				[F]PsUdMkc_E6HWs (size = 128)
+				[D] biS8G
+			[D]YuJteviW3EGIi
+				[D]lSqeS5MtPstL HyX7
+	[D]MJpTW7T
+		[F]FAeGgb-9zqKTlLafd7jJ (size = 27)
+		[F]7fzfVtHZKBy0_fj26MDM (size = 30)
+	[F]KE1T2nCMc87FbZx6 (size = 32)
+	[D]I8 me3Z-CQ4AX2oZCurk
+		[D]iKp2cA
+		[D]rHNLT1bZNmVcjHYz
+	[D]fqbL4u X4wIvoeeF6
+		[D]Bkg9codFZr
+			[F]_AwMSIBuRH (size = 25)
+		[D]giN2 FLIIcM0otHE_
+	[F]fwlATvSoGjeXDEaEO (size = 254)
+[F]CN9SdGiY (size = 11)
+[D]zAcV9Ac4Dc5Z
+
+create_directory
+32
+get_file_size_path
+254
+create_directory
+33
+print_layout
+[F]GW1x5CAOaKsNYTXR4 (size = 10)
+[F]EVNte (size = 7)
+[D]UC4SY
+	[F]0nwy YznIh (size = 140)
+	[F]OW66S (size = 44)
+	[D]6H-XM7Pukm
+	[D]jMOQ2Nb
+		[D]0zzUz
+[D]yvrLEb
+	[F]djPsE3zAhHRc (size = 24)
+	[D]pxK98 sh3HZ6u2Mp
+		[D]lOLQW2PU
+			[D]fK0bWbfEzF38OPpkA
+				[F]PsUdMkc_E6HWs (size = 128)
+				[D] biS8G
+			[D]YuJteviW3EGIi
+				[D]lSqeS5MtPstL HyX7
+	[D]MJpTW7T
+		[F]FAeGgb-9zqKTlLafd7jJ (size = 27)
+		[F]7fzfVtHZKBy0_fj26MDM (size = 30)
+		[D]f3P7Hi
+	[F]KE1T2nCMc87FbZx6 (size = 32)
+	[D]I8 me3Z-CQ4AX2oZCurk
+		[D]iKp2cA
+		[D]rHNLT1bZNmVcjHYz
+	[D]fqbL4u X4wIvoeeF6
+		[D]Bkg9codFZr
+			[F]_AwMSIBuRH (size = 25)
+		[D]giN2 FLIIcM0otHE_
+	[F]fwlATvSoGjeXDEaEO (size = 254)
+	[D]PFOGCwAava
+[F]CN9SdGiY (size = 11)
+[D]zAcV9Ac4Dc5Z
+
+print_layout
+[F]GW1x5CAOaKsNYTXR4 (size = 10)
+[F]EVNte (size = 7)
+[D]UC4SY
+	[F]0nwy YznIh (size = 140)
+	[F]OW66S (size = 44)
+	[D]6H-XM7Pukm
+	[D]jMOQ2Nb
+		[D]0zzUz
+[D]yvrLEb
+	[F]djPsE3zAhHRc (size = 24)
+	[D]pxK98 sh3HZ6u2Mp
+		[D]lOLQW2PU
+			[D]fK0bWbfEzF38OPpkA
+				[F]PsUdMkc_E6HWs (size = 128)
+				[D] biS8G
+			[D]YuJteviW3EGIi
+				[D]lSqeS5MtPstL HyX7
+	[D]MJpTW7T
+		[F]FAeGgb-9zqKTlLafd7jJ (size = 27)
+		[F]7fzfVtHZKBy0_fj26MDM (size = 30)
+		[D]f3P7Hi
+	[F]KE1T2nCMc87FbZx6 (size = 32)
+	[D]I8 me3Z-CQ4AX2oZCurk
+		[D]iKp2cA
+		[D]rHNLT1bZNmVcjHYz
+	[D]fqbL4u X4wIvoeeF6
+		[D]Bkg9codFZr
+			[F]_AwMSIBuRH (size = 25)
+		[D]giN2 FLIIcM0otHE_
+	[F]fwlATvSoGjeXDEaEO (size = 254)
+	[D]PFOGCwAava
+[F]CN9SdGiY (size = 11)
+[D]zAcV9Ac4Dc5Z
+
+create_file
+34
+get_file_size_path
+24
+create_directory
+35
+create_directory
+36
+create_file
+37
+create_directory
+38
+get_file_size_path
+5
+create_file
+39
+create_file
+40
+create_file
+41
+get_handle
+2
+create_file
+42
+create_file
+43
+get_handle
+8
+create_file
+44
+create_file
+Exceeds file system size limit!
+print_layout
+[F]GW1x5CAOaKsNYTXR4 (size = 10)
+[F]EVNte (size = 7)
+[D]UC4SY
+	[F]0nwy YznIh (size = 140)
+	[F]OW66S (size = 44)
+	[D]6H-XM7Pukm
+		[F]71IX8GL (size = 166)
+	[D]jMOQ2Nb
+		[D]0zzUz
+[D]yvrLEb
+	[F]djPsE3zAhHRc (size = 24)
+	[D]pxK98 sh3HZ6u2Mp
+		[D]lOLQW2PU
+			[D]fK0bWbfEzF38OPpkA
+				[F]PsUdMkc_E6HWs (size = 128)
+				[D] biS8G
+				[F]vaj5A (size = 4)
+			[D]YuJteviW3EGIi
+				[D]lSqeS5MtPstL HyX7
+					[F]_rZYJE5iT K (size = 5)
+				[F]hse1B-NxQ8ZtBz4 (size = 35)
+	[D]MJpTW7T
+		[F]FAeGgb-9zqKTlLafd7jJ (size = 27)
+		[F]7fzfVtHZKBy0_fj26MDM (size = 30)
+		[D]f3P7Hi
+	[F]KE1T2nCMc87FbZx6 (size = 32)
+	[D]I8 me3Z-CQ4AX2oZCurk
+		[D]iKp2cA
+		[D]rHNLT1bZNmVcjHYz
+			[D]2z74D2mGalEF-2
+				[F]KjGjb (size = 93)
+	[D]fqbL4u X4wIvoeeF6
+		[D]Bkg9codFZr
+			[F]_AwMSIBuRH (size = 25)
+			[F]7SVPrj3M0Ub-aECv (size = 26)
+		[D]giN2 FLIIcM0otHE_
+			[D]5bu8aGyGWzgwJ
+			[D]rpYVHBK9sA4b
+			[F]zaqfyB_J35-BA (size = 6)
+	[F]fwlATvSoGjeXDEaEO (size = 254)
+	[D]PFOGCwAava
+[F]CN9SdGiY (size = 11)
+[D]zAcV9Ac4Dc5Z
+	[F]ZJ mf13WXJ_AaQeUC-c (size = 52)
+
+exist
+1
+get_absolute_path
+/yvrLEb/pxK98 sh3HZ6u2Mp/lOLQW2PU
+create_file
+Exceeds file system size limit!
+create_file
+45
+get_available_size
+11
+print_layout
+[F]GW1x5CAOaKsNYTXR4 (size = 10)
+[F]EVNte (size = 7)
+[D]UC4SY
+	[F]0nwy YznIh (size = 140)
+	[F]OW66S (size = 44)
+	[D]6H-XM7Pukm
+		[F]71IX8GL (size = 166)
+	[D]jMOQ2Nb
+		[D]0zzUz
+[D]yvrLEb
+	[F]djPsE3zAhHRc (size = 24)
+	[D]pxK98 sh3HZ6u2Mp
+		[D]lOLQW2PU
+			[D]fK0bWbfEzF38OPpkA
+				[F]PsUdMkc_E6HWs (size = 128)
+				[D] biS8G
+				[F]vaj5A (size = 4)
+			[D]YuJteviW3EGIi
+				[D]lSqeS5MtPstL HyX7
+					[F]_rZYJE5iT K (size = 5)
+				[F]hse1B-NxQ8ZtBz4 (size = 35)
+	[D]MJpTW7T
+		[F]FAeGgb-9zqKTlLafd7jJ (size = 27)
+		[F]7fzfVtHZKBy0_fj26MDM (size = 30)
+		[D]f3P7Hi
+		[F]zI0w qc3F3XwJtehWG8F (size = 22)
+	[F]KE1T2nCMc87FbZx6 (size = 32)
+	[D]I8 me3Z-CQ4AX2oZCurk
+		[D]iKp2cA
+		[D]rHNLT1bZNmVcjHYz
+			[D]2z74D2mGalEF-2
+				[F]KjGjb (size = 93)
+	[D]fqbL4u X4wIvoeeF6
+		[D]Bkg9codFZr
+			[F]_AwMSIBuRH (size = 25)
+			[F]7SVPrj3M0Ub-aECv (size = 26)
+		[D]giN2 FLIIcM0otHE_
+			[D]5bu8aGyGWzgwJ
+			[D]rpYVHBK9sA4b
+			[F]zaqfyB_J35-BA (size = 6)
+	[F]fwlATvSoGjeXDEaEO (size = 254)
+	[D]PFOGCwAava
+[F]CN9SdGiY (size = 11)
+[D]zAcV9Ac4Dc5Z
+	[F]ZJ mf13WXJ_AaQeUC-c (size = 52)
+
+create_file
+Exceeds file system size limit!
+get_available_size
+11
+create_file
+Exceeds file system size limit!
+create_directory
+46
+get_handle
+29
+create_directory
+47
+create_file
+Exceeds file system size limit!
+get_available_size
+11
+create_directory
+48
+create_file
+Exceeds file system size limit!
+get_file_size_path
+6
+get_absolute_path
+/UC4SY/6H-XM7Pukm
+get_absolute_path
+/yvrLEb/pxK98 sh3HZ6u2Mp/lOLQW2PU/fK0bWbfEzF38OPpkA/vaj5A
+create_file
+Exceeds file system size limit!
+get_name
+hse1B-NxQ8ZtBz4
+print_layout
+[F]GW1x5CAOaKsNYTXR4 (size = 10)
+[F]EVNte (size = 7)
+[D]UC4SY
+	[F]0nwy YznIh (size = 140)
+	[F]OW66S (size = 44)
+	[D]6H-XM7Pukm
+		[F]71IX8GL (size = 166)
+	[D]jMOQ2Nb
+		[D]0zzUz
+[D]yvrLEb
+	[F]djPsE3zAhHRc (size = 24)
+	[D]pxK98 sh3HZ6u2Mp
+		[D]lOLQW2PU
+			[D]fK0bWbfEzF38OPpkA
+				[F]PsUdMkc_E6HWs (size = 128)
+				[D] biS8G
+				[F]vaj5A (size = 4)
+			[D]YuJteviW3EGIi
+				[D]lSqeS5MtPstL HyX7
+					[F]_rZYJE5iT K (size = 5)
+				[F]hse1B-NxQ8ZtBz4 (size = 35)
+	[D]MJpTW7T
+		[F]FAeGgb-9zqKTlLafd7jJ (size = 27)
+		[F]7fzfVtHZKBy0_fj26MDM (size = 30)
+		[D]f3P7Hi
+		[F]zI0w qc3F3XwJtehWG8F (size = 22)
+	[F]KE1T2nCMc87FbZx6 (size = 32)
+	[D]I8 me3Z-CQ4AX2oZCurk
+		[D]iKp2cA
+		[D]rHNLT1bZNmVcjHYz
+			[D]2z74D2mGalEF-2
+				[F]KjGjb (size = 93)
+	[D]fqbL4u X4wIvoeeF6
+		[D]Bkg9codFZr
+			[F]_AwMSIBuRH (size = 25)
+			[F]7SVPrj3M0Ub-aECv (size = 26)
+			[D]6arxz4cVeybttMu
+		[D]giN2 FLIIcM0otHE_
+			[D]5bu8aGyGWzgwJ
+			[D]rpYVHBK9sA4b
+			[F]zaqfyB_J35-BA (size = 6)
+			[D]HcKpVqqDp8dIGU
+	[F]fwlATvSoGjeXDEaEO (size = 254)
+	[D]PFOGCwAava
+[F]CN9SdGiY (size = 11)
+[D]zAcV9Ac4Dc5Z
+	[F]ZJ mf13WXJ_AaQeUC-c (size = 52)
+[D]feF6hj_W6TU9ugPNs
+
+create_file
+Exceeds file system size limit!
+create_file
+Exceeds file system size limit!
+create_file
+Exceeds file system size limit!
+create_directory
+49
+create_file
+Exceeds file system size limit!
+create_directory
+50
+get_handle
+37
+print_layout
+[F]GW1x5CAOaKsNYTXR4 (size = 10)
+[F]EVNte (size = 7)
+[D]UC4SY
+	[F]0nwy YznIh (size = 140)
+	[F]OW66S (size = 44)
+	[D]6H-XM7Pukm
+		[F]71IX8GL (size = 166)
+	[D]jMOQ2Nb
+		[D]0zzUz
+[D]yvrLEb
+	[F]djPsE3zAhHRc (size = 24)
+	[D]pxK98 sh3HZ6u2Mp
+		[D]lOLQW2PU
+			[D]fK0bWbfEzF38OPpkA
+				[F]PsUdMkc_E6HWs (size = 128)
+				[D] biS8G
+				[F]vaj5A (size = 4)
+			[D]YuJteviW3EGIi
+				[D]lSqeS5MtPstL HyX7
+					[F]_rZYJE5iT K (size = 5)
+				[F]hse1B-NxQ8ZtBz4 (size = 35)
+	[D]MJpTW7T
+		[F]FAeGgb-9zqKTlLafd7jJ (size = 27)
+		[F]7fzfVtHZKBy0_fj26MDM (size = 30)
+		[D]f3P7Hi
+		[F]zI0w qc3F3XwJtehWG8F (size = 22)
+	[F]KE1T2nCMc87FbZx6 (size = 32)
+	[D]I8 me3Z-CQ4AX2oZCurk
+		[D]iKp2cA
+		[D]rHNLT1bZNmVcjHYz
+			[D]2z74D2mGalEF-2
+				[F]KjGjb (size = 93)
+			[D]vvT956-yfp
+	[D]fqbL4u X4wIvoeeF6
+		[D]Bkg9codFZr
+			[F]_AwMSIBuRH (size = 25)
+			[F]7SVPrj3M0Ub-aECv (size = 26)
+			[D]6arxz4cVeybttMu
+		[D]giN2 FLIIcM0otHE_
+			[D]5bu8aGyGWzgwJ
+			[D]rpYVHBK9sA4b
+			[F]zaqfyB_J35-BA (size = 6)
+			[D]HcKpVqqDp8dIGU
+		[D]t0ZOFaBqPd
+	[F]fwlATvSoGjeXDEaEO (size = 254)
+	[D]PFOGCwAava
+[F]CN9SdGiY (size = 11)
+[D]zAcV9Ac4Dc5Z
+	[F]ZJ mf13WXJ_AaQeUC-c (size = 52)
+[D]feF6hj_W6TU9ugPNs
+
+create_directory
+51
+create_file
+Exceeds file system size limit!
+create_file
+Exceeds file system size limit!
+get_available_size
+11
+create_directory_root
+52
+exist
+1
+create_directory
+53
+create_file
+Exceeds file system size limit!
+print_layout
+[F]GW1x5CAOaKsNYTXR4 (size = 10)
+[F]EVNte (size = 7)
+[D]UC4SY
+	[F]0nwy YznIh (size = 140)
+	[F]OW66S (size = 44)
+	[D]6H-XM7Pukm
+		[F]71IX8GL (size = 166)
+	[D]jMOQ2Nb
+		[D]0zzUz
+[D]yvrLEb
+	[F]djPsE3zAhHRc (size = 24)
+	[D]pxK98 sh3HZ6u2Mp
+		[D]lOLQW2PU
+			[D]fK0bWbfEzF38OPpkA
+				[F]PsUdMkc_E6HWs (size = 128)
+				[D] biS8G
+				[F]vaj5A (size = 4)
+			[D]YuJteviW3EGIi
+				[D]lSqeS5MtPstL HyX7
+					[F]_rZYJE5iT K (size = 5)
+				[F]hse1B-NxQ8ZtBz4 (size = 35)
+	[D]MJpTW7T
+		[F]FAeGgb-9zqKTlLafd7jJ (size = 27)
+		[F]7fzfVtHZKBy0_fj26MDM (size = 30)
+		[D]f3P7Hi
+		[F]zI0w qc3F3XwJtehWG8F (size = 22)
+		[D]mnvCl_95oq9N1
+	[F]KE1T2nCMc87FbZx6 (size = 32)
+	[D]I8 me3Z-CQ4AX2oZCurk
+		[D]iKp2cA
+		[D]rHNLT1bZNmVcjHYz
+			[D]2z74D2mGalEF-2
+				[F]KjGjb (size = 93)
+			[D]vvT956-yfp
+	[D]fqbL4u X4wIvoeeF6
+		[D]Bkg9codFZr
+			[F]_AwMSIBuRH (size = 25)
+			[F]7SVPrj3M0Ub-aECv (size = 26)
+			[D]6arxz4cVeybttMu
+		[D]giN2 FLIIcM0otHE_
+			[D]5bu8aGyGWzgwJ
+			[D]rpYVHBK9sA4b
+			[F]zaqfyB_J35-BA (size = 6)
+			[D]HcKpVqqDp8dIGU
+		[D]t0ZOFaBqPd
+	[F]fwlATvSoGjeXDEaEO (size = 254)
+	[D]PFOGCwAava
+[F]CN9SdGiY (size = 11)
+[D]zAcV9Ac4Dc5Z
+	[F]ZJ mf13WXJ_AaQeUC-c (size = 52)
+[D]feF6hj_W6TU9ugPNs
+	[D]q1OdFeOnd
+[D]QEzmSbeulD2yCy3Fo
+
+create_directory
+54
+get_file_size_path
+10
+create_directory
+55
+print_layout
+[F]GW1x5CAOaKsNYTXR4 (size = 10)
+[F]EVNte (size = 7)
+[D]UC4SY
+	[F]0nwy YznIh (size = 140)
+	[F]OW66S (size = 44)
+	[D]6H-XM7Pukm
+		[F]71IX8GL (size = 166)
+	[D]jMOQ2Nb
+		[D]0zzUz
+[D]yvrLEb
+	[F]djPsE3zAhHRc (size = 24)
+	[D]pxK98 sh3HZ6u2Mp
+		[D]lOLQW2PU
+			[D]fK0bWbfEzF38OPpkA
+				[F]PsUdMkc_E6HWs (size = 128)
+				[D] biS8G
+				[F]vaj5A (size = 4)
+			[D]YuJteviW3EGIi
+				[D]lSqeS5MtPstL HyX7
+					[F]_rZYJE5iT K (size = 5)
+				[F]hse1B-NxQ8ZtBz4 (size = 35)
+	[D]MJpTW7T
+		[F]FAeGgb-9zqKTlLafd7jJ (size = 27)
+		[F]7fzfVtHZKBy0_fj26MDM (size = 30)
+		[D]f3P7Hi
+		[F]zI0w qc3F3XwJtehWG8F (size = 22)
+		[D]mnvCl_95oq9N1
+	[F]KE1T2nCMc87FbZx6 (size = 32)
+	[D]I8 me3Z-CQ4AX2oZCurk
+		[D]iKp2cA
+		[D]rHNLT1bZNmVcjHYz
+			[D]2z74D2mGalEF-2
+				[F]KjGjb (size = 93)
+			[D]vvT956-yfp
+	[D]fqbL4u X4wIvoeeF6
+		[D]Bkg9codFZr
+			[F]_AwMSIBuRH (size = 25)
+			[F]7SVPrj3M0Ub-aECv (size = 26)
+			[D]6arxz4cVeybttMu
+		[D]giN2 FLIIcM0otHE_
+			[D]5bu8aGyGWzgwJ
+			[D]rpYVHBK9sA4b
+			[F]zaqfyB_J35-BA (size = 6)
+			[D]HcKpVqqDp8dIGU
+		[D]t0ZOFaBqPd
+	[F]fwlATvSoGjeXDEaEO (size = 254)
+	[D]PFOGCwAava
+		[D]QQcfUG XHJ5ONM7
+[F]CN9SdGiY (size = 11)
+[D]zAcV9Ac4Dc5Z
+	[F]ZJ mf13WXJ_AaQeUC-c (size = 52)
+[D]feF6hj_W6TU9ugPNs
+	[D]q1OdFeOnd
+[D]QEzmSbeulD2yCy3Fo
+[D]vFQ_
+
+create_file
+56
+create_directory
+57
+get_file_size_path
+93
+get_absolute_path
+/yvrLEb/fqbL4u X4wIvoeeF6/Bkg9codFZr/_AwMSIBuRH
+create_directory
+58
+create_file
+Exceeds file system size limit!
+exist
+1
+print_layout
+[F]GW1x5CAOaKsNYTXR4 (size = 10)
+[F]EVNte (size = 7)
+[D]UC4SY
+	[F]0nwy YznIh (size = 140)
+	[F]OW66S (size = 44)
+	[D]6H-XM7Pukm
+		[F]71IX8GL (size = 166)
+	[D]jMOQ2Nb
+		[D]0zzUz
+		[D]syhSznE JHOnnH2nSm
+[D]yvrLEb
+	[F]djPsE3zAhHRc (size = 24)
+	[D]pxK98 sh3HZ6u2Mp
+		[D]lOLQW2PU
+			[D]fK0bWbfEzF38OPpkA
+				[F]PsUdMkc_E6HWs (size = 128)
+				[D] biS8G
+				[F]vaj5A (size = 4)
+			[D]YuJteviW3EGIi
+				[D]lSqeS5MtPstL HyX7
+					[F]_rZYJE5iT K (size = 5)
+				[F]hse1B-NxQ8ZtBz4 (size = 35)
+	[D]MJpTW7T
+		[F]FAeGgb-9zqKTlLafd7jJ (size = 27)
+		[F]7fzfVtHZKBy0_fj26MDM (size = 30)
+		[D]f3P7Hi
+		[F]zI0w qc3F3XwJtehWG8F (size = 22)
+		[D]mnvCl_95oq9N1
+	[F]KE1T2nCMc87FbZx6 (size = 32)
+	[D]I8 me3Z-CQ4AX2oZCurk
+		[D]iKp2cA
+		[D]rHNLT1bZNmVcjHYz
+			[D]2z74D2mGalEF-2
+				[F]KjGjb (size = 93)
+			[D]vvT956-yfp
+	[D]fqbL4u X4wIvoeeF6
+		[D]Bkg9codFZr
+			[F]_AwMSIBuRH (size = 25)
+			[F]7SVPrj3M0Ub-aECv (size = 26)
+			[D]6arxz4cVeybttMu
+		[D]giN2 FLIIcM0otHE_
+			[D]5bu8aGyGWzgwJ
+			[D]rpYVHBK9sA4b
+				[F]K6GJxiRjFk (size = 9)
+			[F]zaqfyB_J35-BA (size = 6)
+			[D]HcKpVqqDp8dIGU
+		[D]t0ZOFaBqPd
+	[F]fwlATvSoGjeXDEaEO (size = 254)
+	[D]PFOGCwAava
+		[D]QQcfUG XHJ5ONM7
+[F]CN9SdGiY (size = 11)
+[D]zAcV9Ac4Dc5Z
+	[F]ZJ mf13WXJ_AaQeUC-c (size = 52)
+[D]feF6hj_W6TU9ugPNs
+	[D]q1OdFeOnd
+	[D]TElgLe0B82jwSeWr
+[D]QEzmSbeulD2yCy3Fo
+[D]vFQ_
+
+create_directory
+59
+print_layout
+[F]GW1x5CAOaKsNYTXR4 (size = 10)
+[F]EVNte (size = 7)
+[D]UC4SY
+	[F]0nwy YznIh (size = 140)
+	[F]OW66S (size = 44)
+	[D]6H-XM7Pukm
+		[F]71IX8GL (size = 166)
+	[D]jMOQ2Nb
+		[D]0zzUz
+		[D]syhSznE JHOnnH2nSm
+[D]yvrLEb
+	[F]djPsE3zAhHRc (size = 24)
+	[D]pxK98 sh3HZ6u2Mp
+		[D]lOLQW2PU
+			[D]fK0bWbfEzF38OPpkA
+				[F]PsUdMkc_E6HWs (size = 128)
+				[D] biS8G
+				[F]vaj5A (size = 4)
+			[D]YuJteviW3EGIi
+				[D]lSqeS5MtPstL HyX7
+					[F]_rZYJE5iT K (size = 5)
+				[F]hse1B-NxQ8ZtBz4 (size = 35)
+	[D]MJpTW7T
+		[F]FAeGgb-9zqKTlLafd7jJ (size = 27)
+		[F]7fzfVtHZKBy0_fj26MDM (size = 30)
+		[D]f3P7Hi
+		[F]zI0w qc3F3XwJtehWG8F (size = 22)
+		[D]mnvCl_95oq9N1
+	[F]KE1T2nCMc87FbZx6 (size = 32)
+	[D]I8 me3Z-CQ4AX2oZCurk
+		[D]iKp2cA
+		[D]rHNLT1bZNmVcjHYz
+			[D]2z74D2mGalEF-2
+				[F]KjGjb (size = 93)
+			[D]vvT956-yfp
+	[D]fqbL4u X4wIvoeeF6
+		[D]Bkg9codFZr
+			[F]_AwMSIBuRH (size = 25)
+			[F]7SVPrj3M0Ub-aECv (size = 26)
+			[D]6arxz4cVeybttMu
+		[D]giN2 FLIIcM0otHE_
+			[D]5bu8aGyGWzgwJ
+				[D]IOLZOgyvVApFVY6T
+			[D]rpYVHBK9sA4b
+				[F]K6GJxiRjFk (size = 9)
+			[F]zaqfyB_J35-BA (size = 6)
+			[D]HcKpVqqDp8dIGU
+		[D]t0ZOFaBqPd
+	[F]fwlATvSoGjeXDEaEO (size = 254)
+	[D]PFOGCwAava
+		[D]QQcfUG XHJ5ONM7
+[F]CN9SdGiY (size = 11)
+[D]zAcV9Ac4Dc5Z
+	[F]ZJ mf13WXJ_AaQeUC-c (size = 52)
+[D]feF6hj_W6TU9ugPNs
+	[D]q1OdFeOnd
+	[D]TElgLe0B82jwSeWr
+[D]QEzmSbeulD2yCy3Fo
+[D]vFQ_
+
+exist
+1
+get_file_size
+140
+create_directory
+60
+get_available_size
+2
+create_directory
+61
+create_directory
+62
+get_name
+f3P7Hi
+create_directory
+63
+create_file
+Exceeds file system size limit!
+create_file
+Exceeds file system size limit!
+exist
+1
+get_name
+7SVPrj3M0Ub-aECv
+create_file
+Exceeds file system size limit!
+create_directory
+64
+get_file_size
+6
+create_file
+Exceeds file system size limit!
+get_available_size
+2
+get_absolute_path
+/yvrLEb/I8 me3Z-CQ4AX2oZCurk/rHNLT1bZNmVcjHYz/2z74D2mGalEF-2
+get_absolute_path
+/yvrLEb/fqbL4u X4wIvoeeF6/giN2 FLIIcM0otHE_/5bu8aGyGWzgwJ/IOLZOgyvVApFVY6T
+get_file_size
+22
+create_directory
+65
+get_available_size
+2
+print_layout
+[F]GW1x5CAOaKsNYTXR4 (size = 10)
+[F]EVNte (size = 7)
+[D]UC4SY
+	[F]0nwy YznIh (size = 140)
+	[F]OW66S (size = 44)
+	[D]6H-XM7Pukm
+		[F]71IX8GL (size = 166)
+	[D]jMOQ2Nb
+		[D]0zzUz
+		[D]syhSznE JHOnnH2nSm
+			[D]z1ESNNOEuxNG
+		[D]lw25MsO  FN_lQh 
+			[D]f529580
+[D]yvrLEb
+	[F]djPsE3zAhHRc (size = 24)
+	[D]pxK98 sh3HZ6u2Mp
+		[D]lOLQW2PU
+			[D]fK0bWbfEzF38OPpkA
+				[F]PsUdMkc_E6HWs (size = 128)
+				[D] biS8G
+					[D]AIIqk5zKAFQmlJcCHExv
+				[F]vaj5A (size = 4)
+			[D]YuJteviW3EGIi
+				[D]lSqeS5MtPstL HyX7
+					[F]_rZYJE5iT K (size = 5)
+				[F]hse1B-NxQ8ZtBz4 (size = 35)
+	[D]MJpTW7T
+		[F]FAeGgb-9zqKTlLafd7jJ (size = 27)
+		[F]7fzfVtHZKBy0_fj26MDM (size = 30)
+		[D]f3P7Hi
+		[F]zI0w qc3F3XwJtehWG8F (size = 22)
+		[D]mnvCl_95oq9N1
+	[F]KE1T2nCMc87FbZx6 (size = 32)
+	[D]I8 me3Z-CQ4AX2oZCurk
+		[D]iKp2cA
+		[D]rHNLT1bZNmVcjHYz
+			[D]2z74D2mGalEF-2
+				[F]KjGjb (size = 93)
+			[D]vvT956-yfp
+				[D]8j2E-E0o7N
+	[D]fqbL4u X4wIvoeeF6
+		[D]Bkg9codFZr
+			[F]_AwMSIBuRH (size = 25)
+			[F]7SVPrj3M0Ub-aECv (size = 26)
+			[D]6arxz4cVeybttMu
+		[D]giN2 FLIIcM0otHE_
+			[D]5bu8aGyGWzgwJ
+				[D]IOLZOgyvVApFVY6T
+			[D]rpYVHBK9sA4b
+				[F]K6GJxiRjFk (size = 9)
+			[F]zaqfyB_J35-BA (size = 6)
+			[D]HcKpVqqDp8dIGU
+		[D]t0ZOFaBqPd
+	[F]fwlATvSoGjeXDEaEO (size = 254)
+	[D]PFOGCwAava
+		[D]QQcfUG XHJ5ONM7
+		[D]1xp212Nzqfi
+[F]CN9SdGiY (size = 11)
+[D]zAcV9Ac4Dc5Z
+	[F]ZJ mf13WXJ_AaQeUC-c (size = 52)
+[D]feF6hj_W6TU9ugPNs
+	[D]q1OdFeOnd
+	[D]TElgLe0B82jwSeWr
+[D]QEzmSbeulD2yCy3Fo
+[D]vFQ_
+
+create_file
+Exceeds file system size limit!
+get_file_size_path
+35
+create_directory
+66
+print_layout
+[F]GW1x5CAOaKsNYTXR4 (size = 10)
+[F]EVNte (size = 7)
+[D]UC4SY
+	[F]0nwy YznIh (size = 140)
+	[F]OW66S (size = 44)
+	[D]6H-XM7Pukm
+		[F]71IX8GL (size = 166)
+	[D]jMOQ2Nb
+		[D]0zzUz
+		[D]syhSznE JHOnnH2nSm
+			[D]z1ESNNOEuxNG
+		[D]lw25MsO  FN_lQh 
+			[D]f529580
+			[D]8CCX1Dsv
+[D]yvrLEb
+	[F]djPsE3zAhHRc (size = 24)
+	[D]pxK98 sh3HZ6u2Mp
+		[D]lOLQW2PU
+			[D]fK0bWbfEzF38OPpkA
+				[F]PsUdMkc_E6HWs (size = 128)
+				[D] biS8G
+					[D]AIIqk5zKAFQmlJcCHExv
+				[F]vaj5A (size = 4)
+			[D]YuJteviW3EGIi
+				[D]lSqeS5MtPstL HyX7
+					[F]_rZYJE5iT K (size = 5)
+				[F]hse1B-NxQ8ZtBz4 (size = 35)
+	[D]MJpTW7T
+		[F]FAeGgb-9zqKTlLafd7jJ (size = 27)
+		[F]7fzfVtHZKBy0_fj26MDM (size = 30)
+		[D]f3P7Hi
+		[F]zI0w qc3F3XwJtehWG8F (size = 22)
+		[D]mnvCl_95oq9N1
+	[F]KE1T2nCMc87FbZx6 (size = 32)
+	[D]I8 me3Z-CQ4AX2oZCurk
+		[D]iKp2cA
+		[D]rHNLT1bZNmVcjHYz
+			[D]2z74D2mGalEF-2
+				[F]KjGjb (size = 93)
+			[D]vvT956-yfp
+				[D]8j2E-E0o7N
+	[D]fqbL4u X4wIvoeeF6
+		[D]Bkg9codFZr
+			[F]_AwMSIBuRH (size = 25)
+			[F]7SVPrj3M0Ub-aECv (size = 26)
+			[D]6arxz4cVeybttMu
+		[D]giN2 FLIIcM0otHE_
+			[D]5bu8aGyGWzgwJ
+				[D]IOLZOgyvVApFVY6T
+			[D]rpYVHBK9sA4b
+				[F]K6GJxiRjFk (size = 9)
+			[F]zaqfyB_J35-BA (size = 6)
+			[D]HcKpVqqDp8dIGU
+		[D]t0ZOFaBqPd
+	[F]fwlATvSoGjeXDEaEO (size = 254)
+	[D]PFOGCwAava
+		[D]QQcfUG XHJ5ONM7
+		[D]1xp212Nzqfi
+[F]CN9SdGiY (size = 11)
+[D]zAcV9Ac4Dc5Z
+	[F]ZJ mf13WXJ_AaQeUC-c (size = 52)
+[D]feF6hj_W6TU9ugPNs
+	[D]q1OdFeOnd
+	[D]TElgLe0B82jwSeWr
+[D]QEzmSbeulD2yCy3Fo
+[D]vFQ_
+
+create_file
+Exceeds file system size limit!
+create_file
+Exceeds file system size limit!
+print_layout
+[F]GW1x5CAOaKsNYTXR4 (size = 10)
+[F]EVNte (size = 7)
+[D]UC4SY
+	[F]0nwy YznIh (size = 140)
+	[F]OW66S (size = 44)
+	[D]6H-XM7Pukm
+		[F]71IX8GL (size = 166)
+	[D]jMOQ2Nb
+		[D]0zzUz
+		[D]syhSznE JHOnnH2nSm
+			[D]z1ESNNOEuxNG
+		[D]lw25MsO  FN_lQh 
+			[D]f529580
+			[D]8CCX1Dsv
+[D]yvrLEb
+	[F]djPsE3zAhHRc (size = 24)
+	[D]pxK98 sh3HZ6u2Mp
+		[D]lOLQW2PU
+			[D]fK0bWbfEzF38OPpkA
+				[F]PsUdMkc_E6HWs (size = 128)
+				[D] biS8G
+					[D]AIIqk5zKAFQmlJcCHExv
+				[F]vaj5A (size = 4)
+			[D]YuJteviW3EGIi
+				[D]lSqeS5MtPstL HyX7
+					[F]_rZYJE5iT K (size = 5)
+				[F]hse1B-NxQ8ZtBz4 (size = 35)
+	[D]MJpTW7T
+		[F]FAeGgb-9zqKTlLafd7jJ (size = 27)
+		[F]7fzfVtHZKBy0_fj26MDM (size = 30)
+		[D]f3P7Hi
+		[F]zI0w qc3F3XwJtehWG8F (size = 22)
+		[D]mnvCl_95oq9N1
+	[F]KE1T2nCMc87FbZx6 (size = 32)
+	[D]I8 me3Z-CQ4AX2oZCurk
+		[D]iKp2cA
+		[D]rHNLT1bZNmVcjHYz
+			[D]2z74D2mGalEF-2
+				[F]KjGjb (size = 93)
+			[D]vvT956-yfp
+				[D]8j2E-E0o7N
+	[D]fqbL4u X4wIvoeeF6
+		[D]Bkg9codFZr
+			[F]_AwMSIBuRH (size = 25)
+			[F]7SVPrj3M0Ub-aECv (size = 26)
+			[D]6arxz4cVeybttMu
+		[D]giN2 FLIIcM0otHE_
+			[D]5bu8aGyGWzgwJ
+				[D]IOLZOgyvVApFVY6T
+			[D]rpYVHBK9sA4b
+				[F]K6GJxiRjFk (size = 9)
+			[F]zaqfyB_J35-BA (size = 6)
+			[D]HcKpVqqDp8dIGU
+		[D]t0ZOFaBqPd
+	[F]fwlATvSoGjeXDEaEO (size = 254)
+	[D]PFOGCwAava
+		[D]QQcfUG XHJ5ONM7
+		[D]1xp212Nzqfi
+[F]CN9SdGiY (size = 11)
+[D]zAcV9Ac4Dc5Z
+	[F]ZJ mf13WXJ_AaQeUC-c (size = 52)
+[D]feF6hj_W6TU9ugPNs
+	[D]q1OdFeOnd
+	[D]TElgLe0B82jwSeWr
+[D]QEzmSbeulD2yCy3Fo
+[D]vFQ_
+
+get_absolute_path
+/UC4SY/jMOQ2Nb
+create_directory
+67
+create_file
+Exceeds file system size limit!
+get_available_size
+2
+create_file
+Exceeds file system size limit!
+create_file
+Exceeds file system size limit!
+exist
+1
+get_absolute_path
+/yvrLEb/fqbL4u X4wIvoeeF6/giN2 FLIIcM0otHE_/zaqfyB_J35-BA
+create_directory
+68
+create_file
+Exceeds file system size limit!
+get_name
+iKp2cA
+create_file
+Exceeds file system size limit!
+print_layout
+[F]GW1x5CAOaKsNYTXR4 (size = 10)
+[F]EVNte (size = 7)
+[D]UC4SY
+	[F]0nwy YznIh (size = 140)
+	[F]OW66S (size = 44)
+	[D]6H-XM7Pukm
+		[F]71IX8GL (size = 166)
+	[D]jMOQ2Nb
+		[D]0zzUz
+		[D]syhSznE JHOnnH2nSm
+			[D]z1ESNNOEuxNG
+		[D]lw25MsO  FN_lQh 
+			[D]f529580
+			[D]8CCX1Dsv
+[D]yvrLEb
+	[F]djPsE3zAhHRc (size = 24)
+	[D]pxK98 sh3HZ6u2Mp
+		[D]lOLQW2PU
+			[D]fK0bWbfEzF38OPpkA
+				[F]PsUdMkc_E6HWs (size = 128)
+				[D] biS8G
+					[D]AIIqk5zKAFQmlJcCHExv
+				[F]vaj5A (size = 4)
+			[D]YuJteviW3EGIi
+				[D]lSqeS5MtPstL HyX7
+					[F]_rZYJE5iT K (size = 5)
+				[F]hse1B-NxQ8ZtBz4 (size = 35)
+	[D]MJpTW7T
+		[F]FAeGgb-9zqKTlLafd7jJ (size = 27)
+		[F]7fzfVtHZKBy0_fj26MDM (size = 30)
+		[D]f3P7Hi
+		[F]zI0w qc3F3XwJtehWG8F (size = 22)
+		[D]mnvCl_95oq9N1
+	[F]KE1T2nCMc87FbZx6 (size = 32)
+	[D]I8 me3Z-CQ4AX2oZCurk
+		[D]iKp2cA
+		[D]rHNLT1bZNmVcjHYz
+			[D]2z74D2mGalEF-2
+				[F]KjGjb (size = 93)
+				[D]MieeLkkeo0Umw nHWPy
+			[D]vvT956-yfp
+				[D]8j2E-E0o7N
+	[D]fqbL4u X4wIvoeeF6
+		[D]Bkg9codFZr
+			[F]_AwMSIBuRH (size = 25)
+			[F]7SVPrj3M0Ub-aECv (size = 26)
+			[D]6arxz4cVeybttMu
+		[D]giN2 FLIIcM0otHE_
+			[D]5bu8aGyGWzgwJ
+				[D]IOLZOgyvVApFVY6T
+			[D]rpYVHBK9sA4b
+				[F]K6GJxiRjFk (size = 9)
+			[F]zaqfyB_J35-BA (size = 6)
+			[D]HcKpVqqDp8dIGU
+		[D]t0ZOFaBqPd
+	[F]fwlATvSoGjeXDEaEO (size = 254)
+	[D]PFOGCwAava
+		[D]QQcfUG XHJ5ONM7
+		[D]1xp212Nzqfi
+[F]CN9SdGiY (size = 11)
+[D]zAcV9Ac4Dc5Z
+	[F]ZJ mf13WXJ_AaQeUC-c (size = 52)
+[D]feF6hj_W6TU9ugPNs
+	[D]q1OdFeOnd
+		[D]rgCyEADO89MOpd7S
+	[D]TElgLe0B82jwSeWr
+[D]QEzmSbeulD2yCy3Fo
+[D]vFQ_
+
+get_handle
+64
+exist
+1
+create_directory
+69
+create_file
+Exceeds file system size limit!
+exist
+1
+exist
+1
+create_directory
+70
+create_directory
+71
+create_directory
+72
+create_directory
+73
+create_directory
+74
+create_file
+Exceeds file system size limit!
+create_directory
+75
+create_directory
+76
+create_directory
+77
+create_file
+Exceeds file system size limit!
+create_directory
+78
+create_file
+Exceeds file system size limit!
+get_absolute_path
+/yvrLEb/fqbL4u X4wIvoeeF6/giN2 FLIIcM0otHE_/rpYVHBK9sA4b/yINyz_yKLFjhmKx33KN
+print_layout
+[F]GW1x5CAOaKsNYTXR4 (size = 10)
+[F]EVNte (size = 7)
+[D]UC4SY
+	[F]0nwy YznIh (size = 140)
+	[F]OW66S (size = 44)
+	[D]6H-XM7Pukm
+		[F]71IX8GL (size = 166)
+	[D]jMOQ2Nb
+		[D]0zzUz
+		[D]syhSznE JHOnnH2nSm
+			[D]z1ESNNOEuxNG
+			[D]5oqTa
+		[D]lw25MsO  FN_lQh 
+			[D]f529580
+			[D]8CCX1Dsv
+				[D]XevHi7LfocgyO63
+[D]yvrLEb
+	[F]djPsE3zAhHRc (size = 24)
+	[D]pxK98 sh3HZ6u2Mp
+		[D]lOLQW2PU
+			[D]fK0bWbfEzF38OPpkA
+				[F]PsUdMkc_E6HWs (size = 128)
+				[D] biS8G
+					[D]AIIqk5zKAFQmlJcCHExv
+						[D]9gghwr
+					[D]QfgP 6zk2clkIij_
+				[F]vaj5A (size = 4)
+			[D]YuJteviW3EGIi
+				[D]lSqeS5MtPstL HyX7
+					[F]_rZYJE5iT K (size = 5)
+				[F]hse1B-NxQ8ZtBz4 (size = 35)
+	[D]MJpTW7T
+		[F]FAeGgb-9zqKTlLafd7jJ (size = 27)
+		[F]7fzfVtHZKBy0_fj26MDM (size = 30)
+		[D]f3P7Hi
+		[F]zI0w qc3F3XwJtehWG8F (size = 22)
+		[D]mnvCl_95oq9N1
+			[D]4zCDtPPO2BWTtUfFN4
+	[F]KE1T2nCMc87FbZx6 (size = 32)
+	[D]I8 me3Z-CQ4AX2oZCurk
+		[D]iKp2cA
+		[D]rHNLT1bZNmVcjHYz
+			[D]2z74D2mGalEF-2
+				[F]KjGjb (size = 93)
+				[D]MieeLkkeo0Umw nHWPy
+			[D]vvT956-yfp
+				[D]8j2E-E0o7N
+	[D]fqbL4u X4wIvoeeF6
+		[D]Bkg9codFZr
+			[F]_AwMSIBuRH (size = 25)
+			[F]7SVPrj3M0Ub-aECv (size = 26)
+			[D]6arxz4cVeybttMu
+				[D]6cOZ-ezHCrzBitc_c
+		[D]giN2 FLIIcM0otHE_
+			[D]5bu8aGyGWzgwJ
+				[D]IOLZOgyvVApFVY6T
+				[D]CmQporNnTY2FEEebs
+			[D]rpYVHBK9sA4b
+				[F]K6GJxiRjFk (size = 9)
+				[D]yINyz_yKLFjhmKx33KN
+			[F]zaqfyB_J35-BA (size = 6)
+			[D]HcKpVqqDp8dIGU
+		[D]t0ZOFaBqPd
+		[D]iP7uyLMLrNSrg_zS9J
+		[D]xQRYFGI
+	[F]fwlATvSoGjeXDEaEO (size = 254)
+	[D]PFOGCwAava
+		[D]QQcfUG XHJ5ONM7
+		[D]1xp212Nzqfi
+[F]CN9SdGiY (size = 11)
+[D]zAcV9Ac4Dc5Z
+	[F]ZJ mf13WXJ_AaQeUC-c (size = 52)
+[D]feF6hj_W6TU9ugPNs
+	[D]q1OdFeOnd
+		[D]rgCyEADO89MOpd7S
+	[D]TElgLe0B82jwSeWr
+[D]QEzmSbeulD2yCy3Fo
+[D]vFQ_
+
+get_absolute_path
+/yvrLEb/PFOGCwAava/QQcfUG XHJ5ONM7
+create_file
+Exceeds file system size limit!
+create_file
+Exceeds file system size limit!
+create_file
+Exceeds file system size limit!
+quit

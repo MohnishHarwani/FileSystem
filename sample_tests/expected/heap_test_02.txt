@@ -1,0 +1,210 @@
+create_file_root
+1
+create_file_root
+2
+get_available_size
+6920
+create_file
+3
+exist
+1
+create_directory
+4
+get_handle
+4
+print_layout
+[F]O ycRtE6B (size = 4)
+[F]Yi0-w (size = 125)
+[F]FR1hk5_I8pNoIns4w (size = 39)
+[D]FEUcwelUp0i-5kW
+
+get_absolute_path
+/Yi0-w
+create_directory
+5
+create_directory
+6
+print_layout
+[F]O ycRtE6B (size = 4)
+[F]Yi0-w (size = 125)
+[F]FR1hk5_I8pNoIns4w (size = 39)
+[D]FEUcwelUp0i-5kW
+	[D]XY2cftnVZ8i4CUCWOT
+	[D]NC8AtyPN
+
+exist
+1
+print_layout
+[F]O ycRtE6B (size = 4)
+[F]Yi0-w (size = 125)
+[F]FR1hk5_I8pNoIns4w (size = 39)
+[D]FEUcwelUp0i-5kW
+	[D]XY2cftnVZ8i4CUCWOT
+	[D]NC8AtyPN
+
+create_directory
+7
+get_largest_file_handle
+2
+get_absolute_path
+/Yi0-w
+get_available_size
+6881
+create_file
+8
+create_file
+9
+create_file
+10
+create_file
+11
+create_directory
+12
+create_file
+13
+exist
+1
+create_file
+14
+get_name
+mNy3ZdcCMxp
+create_file
+15
+create_file
+16
+create_directory
+17
+get_available_size
+6569
+create_file
+18
+print_layout
+[F]O ycRtE6B (size = 4)
+[F]Yi0-w (size = 125)
+[F]FR1hk5_I8pNoIns4w (size = 39)
+[D]FEUcwelUp0i-5kW
+	[D]XY2cftnVZ8i4CUCWOT
+		[D]mNy3ZdcCMxp
+			[F]qyCs5j  (size = 10)
+			[F]x22qVMWBvNYcHF (size = 11)
+			[F]HGMxmgpDEk5kuK (size = 25)
+			[D]v0 nDfqV0z9y
+		[D]KrVcFRlL_ASFL
+			[F]uzIOY7X xnSqX (size = 14)
+			[F]DMMkR38JHz9r (size = 6)
+	[D]NC8AtyPN
+		[F]H1 ZaH_ (size = 37)
+		[F]JWu34ktvRE (size = 34)
+	[F]OKrB8IWg3peND4E-KJps (size = 8)
+	[F]SgvI91vIn (size = 201)
+
+create_directory_root
+19
+create_directory
+20
+get_available_size
+6535
+get_largest_file_handle
+9
+get_absolute_path
+/-At4o
+create_directory
+21
+print_layout
+[F]O ycRtE6B (size = 4)
+[F]Yi0-w (size = 125)
+[F]FR1hk5_I8pNoIns4w (size = 39)
+[D]FEUcwelUp0i-5kW
+	[D]XY2cftnVZ8i4CUCWOT
+		[D]mNy3ZdcCMxp
+			[F]qyCs5j  (size = 10)
+			[F]x22qVMWBvNYcHF (size = 11)
+			[F]HGMxmgpDEk5kuK (size = 25)
+			[D]v0 nDfqV0z9y
+		[D]KrVcFRlL_ASFL
+			[F]uzIOY7X xnSqX (size = 14)
+			[F]DMMkR38JHz9r (size = 6)
+		[D]LUFvyHAEdZw2RVv
+	[D]NC8AtyPN
+		[F]H1 ZaH_ (size = 37)
+		[F]JWu34ktvRE (size = 34)
+	[F]OKrB8IWg3peND4E-KJps (size = 8)
+	[F]SgvI91vIn (size = 201)
+	[D]wCTAnDVOfM3v
+[D]-At4o
+
+create_directory
+22
+create_file
+23
+create_directory
+24
+get_largest_file_handle
+9
+get_handle
+8
+get_largest_file_handle
+9
+get_absolute_path
+/FEUcwelUp0i-5kW/XY2cftnVZ8i4CUCWOT/mNy3ZdcCMxp/v0 nDfqV0z9y
+get_handle
+21
+get_largest_file_handle
+9
+get_largest_file_handle
+9
+get_file_size_path
+198
+create_directory
+25
+create_file
+26
+print_layout
+[F]O ycRtE6B (size = 4)
+[F]Yi0-w (size = 125)
+[F]FR1hk5_I8pNoIns4w (size = 39)
+[D]FEUcwelUp0i-5kW
+	[D]XY2cftnVZ8i4CUCWOT
+		[D]mNy3ZdcCMxp
+			[F]qyCs5j  (size = 10)
+			[F]x22qVMWBvNYcHF (size = 11)
+			[F]HGMxmgpDEk5kuK (size = 25)
+			[D]v0 nDfqV0z9y
+		[D]KrVcFRlL_ASFL
+			[F]uzIOY7X xnSqX (size = 14)
+			[F]DMMkR38JHz9r (size = 6)
+			[D]9gWzvIjm
+				[F]j_93WK (size = 104)
+			[F]hAhye-21sTybw (size = 198)
+		[D]LUFvyHAEdZw2RVv
+		[D]OkkCCClxg
+	[D]NC8AtyPN
+		[F]H1 ZaH_ (size = 37)
+		[F]JWu34ktvRE (size = 34)
+	[F]OKrB8IWg3peND4E-KJps (size = 8)
+	[F]SgvI91vIn (size = 201)
+	[D]wCTAnDVOfM3v
+	[D]1cT17e3thA u
+[D]-At4o
+
+get_name
+HGMxmgpDEk5kuK
+get_largest_file_handle
+9
+get_available_size
+6233
+create_directory
+27
+create_file_root
+28
+get_available_size
+6204
+create_file
+29
+create_directory
+30
+get_available_size
+6076
+get_available_size
+6076
+quit

@@ -1,0 +1,220 @@
+create_file
+1
+rename
+remove
+create_directory_root
+1
+create_file
+2
+create_directory
+3
+create_directory
+4
+create_file
+File already exists!
+create_link_root
+5
+create_directory
+6
+create_link
+7
+create_file
+8
+remove
+create_directory
+8
+get_name
+SZmdA
+create_file
+9
+create_file
+10
+get_largest_file_handle
+9
+create_link
+11
+get_absolute_path
+/sOkq4b/6Xmu ml6Zu9/RyPCkYnb2CSZ0xV
+get_handle
+11
+remove
+create_link
+10
+rename
+create_link
+12
+rename
+get_name
+MTjQ5m
+remove
+get_largest_file_handle
+9
+get_largest_file_handle
+9
+create_link
+13
+create_file
+14
+create_link_root
+15
+create_link
+16
+create_link
+17
+create_file
+18
+get_largest_file_handle
+18
+create_link
+19
+rename
+create_directory
+20
+get_name
+30vcOy
+rename
+get_name
+6AvxsIv_g
+get_absolute_path
+/6AvxsIv_g/6Xmu ml6Zu9/DyUW9gLlbh
+create_directory
+21
+create_directory
+22
+rename
+create_file
+23
+create_file
+24
+get_file_size
+Invalid handle!
+create_link
+25
+print_layout
+[D]6AvxsIv_g
+	[F]wII2V (size = 22)
+	[D]6Xmu ml6Zu9
+		[D]7zbr5g6I
+			[F]gxEkIx3aVVVqLO6ptzo (size = 21)
+			[L]Bygyxm [->/6AvxsIv_g/6Xmu ml6Zu9/RyPCkYnb2CSZ0xV]
+		[D]RyPCkYnb2CSZ0xV
+			[L]MTjQ5m [->/6AvxsIv_g/6Xmu ml6Zu9]
+			[F]30vcOy (size = 35)
+			[D]4S2YWWsGPLLWpaoYEvRk
+				[F]Kw48QRe1TMFomuRzv (size = 42)
+			[D]kVzwE5fDV_m8eAIsGm0
+			[F]4EAC2Kl (size = 249)
+		[L]LseSd3IHTHmPog6TJ [->/6AvxsIv_g/6Xmu ml6Zu9]
+		[L]DyUW9gLlbh [->/6AvxsIv_g/6Xmu ml6Zu9]
+	[D]6BhCISTJ5_7
+		[L]dXahhzxPQJqPSI [->/6AvxsIv_g/6BhCISTJ5_7]
+		[L]6cM--9A [->/6AvxsIv_g/6BhCISTJ5_7]
+		[D]2MGWlxvv86QYxFx
+	[F]C1uqz CLYhxGw4nAZC (size = 30)
+	[L]ZFrPVAPb7 Jp6aq [->/6AvxsIv_g/6BhCISTJ5_7]
+	[L]fflU [->/6AvxsIv_g]
+	[L]9dSs9s [->/6AvxsIv_g/6BhCISTJ5_7]
+[L]V8wiwmWzdzUN [->/6AvxsIv_g]
+[L]-gbhVECsHbrueKFNgt0h [->/6AvxsIv_g/6Xmu ml6Zu9/RyPCkYnb2CSZ0xV]
+
+get_available_size
+5038
+get_file_size_path
+21
+rename
+create_directory
+26
+create_file
+27
+create_directory
+28
+get_absolute_path
+/6AvxsIv_g/6Xmu ml6Zu9/RyPCkYnb2CSZ0xV/30vcOy
+get_available_size
+4988
+get_name
+uGrpI5j4
+create_link
+29
+create_directory
+30
+create_directory
+Directory already exists!
+rename
+get_largest_file_handle
+24
+get_name
+4EAC2Kl
+create_link
+31
+create_file
+32
+create_file
+33
+remove
+rename
+rename
+create_link
+34
+create_file
+35
+create_file
+36
+create_directory
+37
+remove
+exist
+1
+get_file_size
+50
+create_file
+26
+get_available_size
+4542
+get_name
+gxEkIx3aVVVqLO6ptzo
+create_file
+38
+create_link
+39
+get_file_size
+133
+create_link
+40
+create_directory
+41
+create_directory
+42
+create_link
+43
+get_name
+wII2V
+get_name
+YxnP-7
+create_file
+44
+create_directory
+45
+get_available_size
+4329
+create_link
+46
+create_directory
+47
+rename
+create_file
+48
+create_file
+49
+create_link
+50
+remove
+create_directory
+19
+create_file
+51
+follow
+4
+get_available_size
+4089
+quit

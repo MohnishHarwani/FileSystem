@@ -1,0 +1,93 @@
+allocate
+1
+allocate
+2
+allocate
+3
+allocate
+4
+allocate
+5
+ref_node
+94
+parent: 3
+children: 
+ref_node
+-60
+parent: 0
+children: 
+allocate
+6
+allocate
+7
+allocate
+8
+set_parent
+set_parent
+remove
+allocate
+6
+set_parent
+set_parent
+peek_nodes
+0: 0
+1: -60
+2: 85
+3: -15
+4: 94
+5: -23
+6: 91
+7: 87
+8: 36
+remove
+remove
+allocate
+4
+allocate
+7
+remove
+set_parent
+allocate
+8
+allocate
+1
+allocate
+9
+set_parent
+allocate
+10
+remove
+ref_node
+Node is recycled!
+remove
+allocate
+6
+set_parent
+allocate
+Node is recycled!
+allocate
+3
+remove
+allocate
+1
+remove
+allocate
+3
+peek_nodes
+0: 0
+1: [recycled]
+2: [recycled]
+3: -59
+4: [recycled]
+5: [recycled]
+6: [recycled]
+7: [recycled]
+8: [recycled]
+9: [recycled]
+10: [recycled]
+allocate
+9
+allocate
+10
+remove
+quit

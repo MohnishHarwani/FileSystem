@@ -1,0 +1,412 @@
+allocate
+1
+allocate
+2
+allocate
+3
+remove
+Invalid handle!
+allocate
+4
+set_parent
+remove
+ref_node
+c_:Z
+parent: 1
+children: 
+allocate
+3
+allocate
+2
+allocate
+5
+allocate
+6
+allocate
+7
+ref_node
+/Wx6L
+parent: 4
+children: 
+remove
+allocate
+6
+allocate
+4
+set_parent
+ref_node
+;iJ</AN}M,
+parent: 0
+children: 
+ref_node
+;iJ</AN}M,
+parent: 0
+children: 
+allocate
+7
+allocate
+2
+set_parent
+allocate
+5
+set_parent
+Invalid handle!
+remove
+remove
+peek_nodes
+0: 
+1: [recycled]
+2: [recycled]
+3: [recycled]
+4: [recycled]
+5: [recycled]
+6: [recycled]
+7: [recycled]
+allocate
+3
+allocate
+1
+remove
+allocate
+7
+set_parent
+remove
+remove
+allocate
+6
+allocate
+5
+set_parent
+set_parent
+allocate
+2
+set_parent
+allocate
+4
+allocate
+3
+allocate
+1
+set_parent
+set_parent
+allocate
+7
+ref_node
+B&4(Hun?9!IW+
+parent: 2
+children: 1 7 
+allocate
+8
+allocate
+9
+allocate
+10
+ref_node
+BvgK
+parent: 4
+children: 10 
+allocate
+11
+ref_node
+uzXD,e%
+parent: 1
+children: 
+allocate
+12
+allocate
+13
+allocate
+14
+set_parent
+remove
+remove
+remove
+allocate
+13
+ref_node
+pt9c~wVW
+parent: 1
+children: 13 
+allocate
+14
+allocate
+5
+allocate
+9
+allocate
+15
+remove
+set_parent
+Invalid handle!
+allocate
+15
+set_parent
+remove
+set_parent
+allocate
+13
+allocate
+8
+set_parent
+ref_node
+taWg!:fV-nC
+parent: 0
+children: 14 
+ref_node
+taWg!:fV-nC
+parent: 0
+children: 14 
+set_parent
+allocate
+12
+set_parent
+allocate
+1
+peek_nodes
+0: 
+1: 8?GJWy#\
+2: [recycled]
+3: [recycled]
+4: [recycled]
+5: cgdCHYt)?;MXgzHc
+6: [recycled]
+7: [recycled]
+8: %D57[?YwR)Rf
+9: [recycled]
+10: [recycled]
+11: [recycled]
+12: :y2JJch
+13: Al_k&tz8Fd
+14: HiW[[}x>uY
+15: taWg!:fV-nC
+set_parent
+allocate
+3
+ref_node
+taWg!:fV-nC
+parent: 5
+children: 13 
+allocate
+11
+set_parent
+remove
+allocate
+9
+allocate
+10
+set_parent
+remove
+set_parent
+allocate
+7
+allocate
+4
+remove
+allocate
+2
+allocate
+6
+allocate
+12
+allocate
+11
+set_parent
+remove
+set_parent
+remove
+set_parent
+remove
+allocate
+10
+set_parent
+remove
+set_parent
+Invalid handle!
+set_parent
+remove
+set_parent
+allocate
+3
+set_parent
+Invalid handle!
+set_parent
+allocate
+2
+ref_node
+cgdCHYt)?;MXgzHc
+parent: 0
+children: 3 
+ref_node
+F&U8\9R<o,.
+parent: 5
+children: 2 
+allocate
+7
+remove
+allocate
+6
+allocate
+4
+allocate
+8
+allocate
+12
+allocate
+14
+allocate
+13
+remove
+ref_node
+b)9&.PBH}
+parent: 3
+children: 
+set_parent
+allocate
+11
+set_parent
+remove
+ref_node
+/la-e;u]
+parent: 5
+children: 
+allocate
+15
+remove
+allocate
+Invalid handle!
+allocate
+9
+allocate
+10
+set_parent
+allocate
+2
+set_parent
+remove
+allocate
+4
+allocate
+7
+allocate
+12
+remove
+remove
+allocate
+15
+ref_node
+F&U8\9R<o,.
+parent: 5
+children: 9 
+allocate
+6
+allocate
+7
+remove
+allocate
+Invalid handle!
+allocate
+13
+allocate
+4
+allocate
+11
+allocate
+12
+allocate
+8
+ref_node
+"x`!LvraNmG&+n
+parent: 14
+children: 
+allocate
+16
+ref_node
+k*t~PvZZZ_#
+parent: 4
+children: 
+peek_nodes
+0: 
+1: 8?GJWy#\
+2: Mx1cA>aN
+3: F&U8\9R<o,.
+4: _{avH{QyMaF;2:
+5: cgdCHYt)?;MXgzHc
+6: Zn_DNv
+7: :OO?rrkZ}_4O
+8: "x`!LvraNmG&+n
+9: !FJDRL~GEq@aR.B
+10: EuV5FKj11]fj
+11: hPW?
+12: ysTr'3L
+13: nZmT
+14: OzPXG;o
+15: R4H.aL
+16: k*t~PvZZZ_#
+allocate
+17
+remove
+ref_node
+cgdCHYt)?;MXgzHc
+parent: 0
+children: 3 10 1 13 
+allocate
+16
+allocate
+Invalid handle!
+remove
+set_parent
+allocate
+4
+allocate
+11
+allocate
+Node is recycled!
+allocate
+17
+remove
+remove
+allocate
+7
+remove
+allocate
+15
+allocate
+9
+allocate
+17
+allocate
+8
+remove
+set_parent
+allocate
+13
+ref_node
+dcuv1
+parent: 2
+children: 
+allocate
+4
+set_parent
+allocate
+8
+remove
+ref_node
+K'GQqbViL4;7lvg]
+parent: 10
+children: 4 11 
+allocate
+17
+allocate
+15
+set_parent
+allocate
+18
+set_parent
+remove
+remove
+remove
+allocate
+13
+allocate
+3
+quit
