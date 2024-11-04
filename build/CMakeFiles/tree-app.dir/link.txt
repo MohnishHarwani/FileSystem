@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/tree-app.dir/src/tree_app.cpp.o -o tree-app  libproject2.a 

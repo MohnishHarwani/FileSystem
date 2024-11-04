@@ -1,0 +1,2 @@
+/usr/bin/ar qc libproject2.a CMakeFiles/project2.dir/src/file_size_max_heap.cpp.o CMakeFiles/project2.dir/src/filesystem.cpp.o CMakeFiles/project2.dir/src/filesystem_app.cpp.o CMakeFiles/project2.dir/src/tree_app.cpp.o
+/usr/bin/ranlib libproject2.a

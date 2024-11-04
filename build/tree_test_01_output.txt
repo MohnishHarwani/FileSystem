@@ -1,0 +1,88 @@
+allocate
+1
+allocate
+2
+allocate
+3
+allocate
+4
+allocate
+5
+allocate
+6
+allocate
+7
+allocate
+8
+ref_node
+63.3868
+parent: 5
+children: 
+allocate
+9
+allocate
+10
+ref_node
+63.3868
+parent: 5
+children: 
+ref_node
+-41.4618
+parent: 0
+children: 2 5 
+ref_node
+-30.3349
+parent: 0
+children: 10 
+allocate
+11
+allocate
+12
+allocate
+13
+allocate
+14
+allocate
+15
+allocate
+16
+allocate
+17
+allocate
+18
+allocate
+19
+ref_node
+63.3868
+parent: 5
+children: 
+peek_nodes
+0: 0
+1: -41.4618
+2: 10.2665
+3: 83.732
+4: -30.3349
+5: -12.83
+6: -25.0967
+7: 63.3868
+8: -15.7852
+9: 90.716
+10: 8.92718
+11: -66.6509
+12: 75.4882
+13: 88.5023
+14: -83.9167
+15: -5.24819
+16: -27.5056
+17: -18.9587
+18: -59.1345
+19: 75.841
+allocate
+20
+ref_node
+-12.83
+parent: 1
+children: 7 
+allocate
+21
+quit

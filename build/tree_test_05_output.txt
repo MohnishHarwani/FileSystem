@@ -1,0 +1,74 @@
+allocate
+1
+allocate
+2
+set_parent
+Invalid handle!
+ref_node
+47
+parent: 0
+children: 
+allocate
+3
+allocate
+4
+allocate
+5
+allocate
+6
+ref_node
+42
+parent: 0
+children: 4 
+allocate
+7
+set_parent
+set_parent
+allocate
+8
+allocate
+9
+set_parent
+allocate
+10
+allocate
+11
+remove
+remove
+allocate
+5
+allocate
+3
+remove
+ref_node
+-73
+parent: 4
+children: 
+allocate
+3
+remove
+remove
+remove
+set_parent
+allocate
+3
+allocate
+5
+ref_node
+Node is recycled!
+remove
+set_parent
+allocate
+10
+set_parent
+Invalid handle!
+set_parent
+allocate
+6
+set_parent
+set_parent
+allocate
+7
+ref_node
+Node is recycled!
+quit

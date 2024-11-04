@@ -1,0 +1,5 @@
+/mnt/c/Users/15103/Desktop/251/work2/build/CMakeFiles/project2.dir
+/mnt/c/Users/15103/Desktop/251/work2/build/CMakeFiles/filesystem-app.dir
+/mnt/c/Users/15103/Desktop/251/work2/build/CMakeFiles/tree-app.dir
+/mnt/c/Users/15103/Desktop/251/work2/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/15103/Desktop/251/work2/build/CMakeFiles/rebuild_cache.dir

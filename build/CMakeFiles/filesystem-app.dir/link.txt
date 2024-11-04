@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/filesystem-app.dir/src/filesystem_app.cpp.o -o filesystem-app  libproject2.a 
